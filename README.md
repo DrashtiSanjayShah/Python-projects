@@ -1,6 +1,6 @@
 # Python Prowess Repository 🐍🚀
 
-![Python Prowess](https://img.shields.io/badge/Python-Prowess-brightgreen)
+[![Python Prowess](https://img.shields.io/badge/Python-Prowess-brightgreen)](https://youtube.com/playlist?list=PLI9IU_4HLCWGRkLqlP50xvdb1W-_qMJd5)
 
 Welcome to the Python Prowess repository! Here, you will find a collection of simple Python codes and projects curated by That one girl in B.Tech for her YouTube channel. The repository is designed to help beginners kickstart their coding journey and provide a platform for Python enthusiasts to brush up their skills.
 
