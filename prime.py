@@ -4,6 +4,8 @@ C = int(input("Enter a number C:"))
 
 if (A==B==C): #A=10, B=10, C=10
     print("All numbers are equal")
+    
+#NORMAL CODE(MORE SPACE COMPLEXITY)
 
 # elif(A>B and B>C or A>C and C>B): #
 #     print("A is greater than both B and C") 
@@ -23,6 +25,8 @@ if (A==B==C): #A=10, B=10, C=10
 #     print("Both A and C are equal and greater than B")
 # elif(A==C <B):
 #     print("Both A and C are equal and less than B")  6>5,6<8
+
+#(LESS SPACE COMPLEXITY)
 
 if A>B:
     if A>C:
